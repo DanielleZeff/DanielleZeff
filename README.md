@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there! Welcome to my github profile and enjoy it!
+
+
+### I am learning these :books: :arrow_down: : 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+
+
 
 <!--
 **DanielleZeff/DanielleZeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
