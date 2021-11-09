@@ -1,4 +1,4 @@
-### Hello there! Do you wanna coffee? :coffee: 
+### Hello there! Do you wanna some coffee? :coffee: 
 Welcome to my github profile, enjoy it and pleaaaseee, help me!:laughing:
 
 ### I am learning :books: :arrow_down: : 
