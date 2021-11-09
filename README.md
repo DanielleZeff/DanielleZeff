@@ -11,7 +11,7 @@ Contact me :point_down:
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DanielleZeff/DanielleZeffi/blob/output/github-contribution-grid-snake.svg)
 <!--
 **DanielleZeff/DanielleZeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
