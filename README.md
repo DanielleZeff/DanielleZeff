@@ -1,4 +1,4 @@
-### Hello there! 
+### Hello there! Do you wanna coffee? :coffee: 
 Welcome to my github profile, enjoy it and pleaaaseee, help me!:laughing:
 
 ### I am learning :books: :arrow_down: : 
@@ -11,6 +11,8 @@ Contact me :point_down:
 </div>
 
 <img src="https://i.pinimg.com/originals/79/0e/36/790e3688f9e0a717d60296694452fab4.gif" width="60%" height="60%" />
+
+Thanks for visiting!!
 
 <!--
 **DanielleZeff/DanielleZeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
