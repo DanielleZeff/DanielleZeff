@@ -11,7 +11,7 @@ Contact me :point_down:
 </div>
 
 
-![Snake animation](https://github.com/Danielle_Zeff/Danielle_Zeffi/blob/output/github-contribution-grid-snake.svg)
+<div class="tenor-gif-embed" data-postid="10024078" data-share-method="host" data-aspect-ratio="1.50602" data-width="50%"><a href="https://tenor.com/view/girl-pixel-press-mad-enter-gif-10024078">Girl Pixel GIF</a>from <a href="https://tenor.com/search/girl-gifs">Girl GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **DanielleZeff/DanielleZeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
