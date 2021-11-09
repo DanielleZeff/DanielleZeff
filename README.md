@@ -10,8 +10,8 @@ Contact me :point_down:
 <a href="https://www.linkedin.com/in/danielle-zeferino-dos-prazeres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<img src="https://tenor.com/view/girl-pixel-press-mad-enter-gif-10024078" width="50%" />
 
-<div class="tenor-gif-embed" data-postid="10024078" data-share-method="host" data-aspect-ratio="1.50602" data-width="50%"><a href="https://tenor.com/view/girl-pixel-press-mad-enter-gif-10024078">Girl Pixel GIF</a>from <a href="https://tenor.com/search/girl-gifs">Girl GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **DanielleZeff/DanielleZeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
