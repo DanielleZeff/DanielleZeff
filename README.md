@@ -10,7 +10,7 @@ Contact me :point_down:
 <a href="https://www.linkedin.com/in/danielle-zeferino-dos-prazeres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<img src="https://i.pinimg.com/originals/79/0e/36/790e3688f9e0a717d60296694452fab4.gif" width="70" height="70" />
+<img src="https://i.pinimg.com/originals/79/0e/36/790e3688f9e0a717d60296694452fab4.gif" width="100" height="100" />
 
 <!--
 **DanielleZeff/DanielleZeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
