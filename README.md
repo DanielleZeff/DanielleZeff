@@ -8,8 +8,8 @@ Welcome to my github profile, enjoy it and pleaaaseee, help me!:laughing:
 
 Contact me :point_down:
 <div>
-<a href = "mailto:danielledzp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danielle-zeferino-dos-prazeres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "danielledzp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/danielle-zeferino1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <img src="https://i.pinimg.com/originals/79/0e/36/790e3688f9e0a717d60296694452fab4.gif" width="60%" height="60%" />
